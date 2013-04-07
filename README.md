@@ -3,16 +3,18 @@ Extension for the Yii Framework: Bulk Mail Widget
 
 Yii Extension: Bulk Mail Widget
 
-What it does?
+=What it does?=
 
 It is a GUI control which provides functionality for handling a list of emails. The user can also input new email adresses or even complete texts where email address are beeing extracted. similar to this is the nowadays email adress receipe input in GMail or YMail. The entries can also be edited by the user. A big advantage: the user can copy ANY text he wants inside the input field and the widget extracts every mail adresse contained in the text.
-Screenshot
-screen
-Install
+
+=Screenshot=
+See the screenshot.png
+
+=Install=
 
 Extract the downloaded ZIP and copy the folder “BulkMail” into “protected/extensions”
 
-Usage example
+=Usage example=
 
 <?php /* the surrounding form */ $form = $this->beginWidget(‘CActiveForm’, …. ?>
 
@@ -26,6 +28,8 @@ array(
 )
 );
 ?>
+
+=Parameters=
 
 Mandatory parameters:
 
