@@ -11,6 +11,7 @@ screen
 Install
 
 Extract the downloaded ZIP and copy the folder “BulkMail” into “protected/extensions”
+
 Usage example
 
 <?php /* the surrounding form */ $form = $this->beginWidget(‘CActiveForm’, …. ?>
