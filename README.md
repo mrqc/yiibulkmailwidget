@@ -1,5 +1,5 @@
-yiibulkmailwidget
-=================
+Extension for the Yii Framework: Bulk Mail Widget
+=================================================
 
 Yii Extension: Bulk Mail Widget
 
