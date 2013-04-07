@@ -13,7 +13,7 @@ It is a GUI control which provides functionality for handling a list of emails. 
 
 #Install
 
-Extract the downloaded ZIP and copy the folder “BulkMail” into “protected/extensions”
+Extract the [downloaded ZIP](https://github.com/mrqc/yiibulkmailwidget/archive/master.zip) and copy the folder “BulkMail” into “protected/extensions”
 
 #Usage example
 
