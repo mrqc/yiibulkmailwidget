@@ -9,7 +9,7 @@ It is a GUI control which provides functionality for handling a list of emails. 
 
 #Screenshot
 
-!(screenshot.png)
+![Screenshot](screenshot.png)
 
 #Install
 
