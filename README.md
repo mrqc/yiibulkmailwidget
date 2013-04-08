@@ -45,3 +45,7 @@ Optional parameters:
     $cssInputNew: (default: “border: 0px solid; width: 98%; padding: 2px; font-size: 16px;”) the css for the text input field where the user can input new emails
     $cssEditInputField: (default: “”) the css for the edit input field
     $cssContainer: (default: “border: 1px solid #9b9b9b;”) the css for the overall div where everything is placed
+
+#More Info and Contact
+
+[master-studios.net](http://www.master-studios.net/softare-web-development/open-source/yii-bulkmail-e-mail-address-list-widget)
